@@ -1,6 +1,7 @@
 import * as React from 'react';
-import { Admin, Resource, ListGuesser } from 'react-admin';
+import { Admin, Resource } from 'react-admin';
 import jsonServerProvider from 'ra-data-json-server';
+import { UserList } from './users';
 import './App.css';
 
 (function () {
@@ -21,7 +22,7 @@ const dataProdiver = jsonServerProvider('https://jsonplaceholder.typicode.com');
 function App() {
   return (
     <Admin dataProvider={dataProdiver}>
-      <Resource name="users" list={ListGuesser} />
+      <Resource name="users" list={UserList} />
     </Admin>
   );
 }
