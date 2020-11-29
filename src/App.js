@@ -1,10 +1,13 @@
+import * as React from 'react';
+import { Admin } from 'react-admin';
+import jsonServerProvider from 'ra-data-json-server';
 import './App.css';
+
+const dataProdiver = jsonServerProvider('https://jsonplaceholder.typicode.com');
 
 function App() {
   return (
-    <div className="App">
-      abc
-    </div>
+    <Admin dataProvider={dataProdiver} />
   );
 }
 
