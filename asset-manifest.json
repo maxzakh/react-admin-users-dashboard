@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/maxzakh/react-admin-users-dashboard/static/css/main.15e05d76.chunk.css",
-    "main.js": "/maxzakh/react-admin-users-dashboard/static/js/main.3576dc95.chunk.js",
-    "main.js.map": "/maxzakh/react-admin-users-dashboard/static/js/main.3576dc95.chunk.js.map",
-    "runtime-main.js": "/maxzakh/react-admin-users-dashboard/static/js/runtime-main.79b047d8.js",
-    "runtime-main.js.map": "/maxzakh/react-admin-users-dashboard/static/js/runtime-main.79b047d8.js.map",
-    "static/js/2.3c2dc955.chunk.js": "/maxzakh/react-admin-users-dashboard/static/js/2.3c2dc955.chunk.js",
-    "static/js/2.3c2dc955.chunk.js.map": "/maxzakh/react-admin-users-dashboard/static/js/2.3c2dc955.chunk.js.map",
-    "static/js/3.e4b25faa.chunk.js": "/maxzakh/react-admin-users-dashboard/static/js/3.e4b25faa.chunk.js",
-    "static/js/3.e4b25faa.chunk.js.map": "/maxzakh/react-admin-users-dashboard/static/js/3.e4b25faa.chunk.js.map",
-    "index.html": "/maxzakh/react-admin-users-dashboard/index.html",
-    "static/css/main.15e05d76.chunk.css.map": "/maxzakh/react-admin-users-dashboard/static/css/main.15e05d76.chunk.css.map",
-    "static/js/2.3c2dc955.chunk.js.LICENSE.txt": "/maxzakh/react-admin-users-dashboard/static/js/2.3c2dc955.chunk.js.LICENSE.txt"
+    "main.css": "/react-admin-users-dashboard/static/css/main.15e05d76.chunk.css",
+    "main.js": "/react-admin-users-dashboard/static/js/main.3576dc95.chunk.js",
+    "main.js.map": "/react-admin-users-dashboard/static/js/main.3576dc95.chunk.js.map",
+    "runtime-main.js": "/react-admin-users-dashboard/static/js/runtime-main.cace479b.js",
+    "runtime-main.js.map": "/react-admin-users-dashboard/static/js/runtime-main.cace479b.js.map",
+    "static/js/2.3c2dc955.chunk.js": "/react-admin-users-dashboard/static/js/2.3c2dc955.chunk.js",
+    "static/js/2.3c2dc955.chunk.js.map": "/react-admin-users-dashboard/static/js/2.3c2dc955.chunk.js.map",
+    "static/js/3.e4b25faa.chunk.js": "/react-admin-users-dashboard/static/js/3.e4b25faa.chunk.js",
+    "static/js/3.e4b25faa.chunk.js.map": "/react-admin-users-dashboard/static/js/3.e4b25faa.chunk.js.map",
+    "index.html": "/react-admin-users-dashboard/index.html",
+    "static/css/main.15e05d76.chunk.css.map": "/react-admin-users-dashboard/static/css/main.15e05d76.chunk.css.map",
+    "static/js/2.3c2dc955.chunk.js.LICENSE.txt": "/react-admin-users-dashboard/static/js/2.3c2dc955.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.79b047d8.js",
+    "static/js/runtime-main.cace479b.js",
     "static/js/2.3c2dc955.chunk.js",
     "static/css/main.15e05d76.chunk.css",
     "static/js/main.3576dc95.chunk.js"
