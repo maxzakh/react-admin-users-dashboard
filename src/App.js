@@ -2,7 +2,10 @@ import * as React from 'react';
 import { Admin, Resource } from 'react-admin';
 import jsonServerProvider from 'ra-data-json-server';
 import { UserList } from './users';
+import { PostList, PostEdit, PostCreate } from './posts';
 import './App.css';
+import PostIcon from '@material-ui/icons/Book';
+import UserIcon from '@material-ui/icons/Group';
 
 (function () {
   const oldConsoleError = console.error;
@@ -22,7 +25,8 @@ const dataProdiver = jsonServerProvider('https://jsonplaceholder.typicode.com');
 function App() {
   return (
     <Admin dataProvider={dataProdiver}>
-      <Resource name="users" list={UserList} />
+      <Resource name="posts" icon={PostIcon} list={PostList} edit={PostEdit} create={PostCreate} />
+      <Resource name="users" icon={UserIcon} list={UserList} />
     </Admin>
   );
 }
